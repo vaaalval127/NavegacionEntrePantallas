@@ -32,4 +32,4 @@ Para probar este proyecto en tu entorno local, sigue estos pasos:
 
 1. Clona este repositorio público en tu computadora:
    ```bash
-   git clone [URL_DE_TU_REPOSITORIO_AQUI]
+   git clone https://github.com/vaaalval127/NavegacionEntrePantallas.git
